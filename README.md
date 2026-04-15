@@ -12,7 +12,7 @@
 - JAVA Script
 
 ## Current Projects
-- Portfolio- a website about me.
+- Community Hub - a project.
 
 ## How to Reach Me
 - Email: denzelanyiko3@gmail.com
