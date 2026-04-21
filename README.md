@@ -10,6 +10,8 @@
 - Python
 - HTML/CSS
 - JAVA Script
+- JSX
+- React
 
 ## Current Projects
 - Community Hub - a project.
