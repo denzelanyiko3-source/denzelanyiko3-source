@@ -100,13 +100,13 @@ User Profiles
 Responsive Design
 
 
-🌐 Connect With Me
+#🌐 Connect With Me
 
 GitHub: https://github.com/denzelanyiko3-source 
 
 Portfolio: 
 
 
-✨ Motto
+# Motto
 
 > "Build. Learn. Improve. Repeat."
