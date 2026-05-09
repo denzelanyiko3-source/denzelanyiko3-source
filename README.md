@@ -1,5 +1,4 @@
-
-Hi there 👋
+# Hi there 👋
 
 I'm Denzel
 
@@ -10,9 +9,9 @@ I build modern web applications, digital platforms, and community-driven experie
 Currently working on a Digital Community Hub Platform focused on groups, events, collaboration, and real-time interaction.
 
 
----
 
-🚀 About Me
+
+# 🚀 About Me
 
 💻 Passionate about full-stack web development
 
@@ -28,9 +27,9 @@ Currently working on a Digital Community Hub Platform focused on groups, events,
 
 ---
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-Frontend
+## Frontend
 
 HTML
 
@@ -43,41 +42,31 @@ React
 Tailwind CSS
 
 
-Backend
+## Backend
 
 Node.js
 
 Express.js
 
 
-Database
+## Database
 
 MongoDB
 
 MySQL
 
 
-Tools & Technologies
+## Tools & Technologies
 
 Git & GitHub
 
 JWT Authentication
 
-REST APIs
-
-Socket.io
-
-Firebase
-
-Cloudinary
-
-
-
 ---
 
-📌 Current Project
+# 📌 Current Project
 
-LinkUp — Digital Community Hub
+## LinkUp — Digital Community Hub
 
 A modern community platform that helps users:
 
@@ -92,7 +81,7 @@ Share ideas
 Collaborate in communities
 
 
-Features
+## Features
 
 Authentication System
 
@@ -111,27 +100,12 @@ User Profiles
 Responsive Design
 
 
-
----
-
-📈 GitHub Stats
-
-
-
-
-
-
----
-
 🌐 Connect With Me
 
 GitHub: https://github.com/denzelanyiko3-source 
 
 Portfolio: 
 
-
-
----
 
 ✨ Motto
 
