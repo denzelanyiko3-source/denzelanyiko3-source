@@ -31,36 +31,36 @@ Currently working on a Digital Community Hub Platform focused on groups, events,
 
 ## Frontend
 
-HTML
+- HTML
 
-CSS
+- CSS
 
-JavaScript
+- JavaScript
 
-React
+- React
 
-Tailwind CSS
+- Tailwind CSS
 
 
 ## Backend
 
-Node.js
+- Node.js
 
-Express.js
+- Express.js
 
 
 ## Database
 
-MongoDB
+- MongoDB
 
-MySQL
+- MySQL
 
 
 ## Tools & Technologies
 
-Git & GitHub
+- Git & GitHub
 
-JWT Authentication
+- JWT Authentication
 
 ---
 
@@ -100,11 +100,11 @@ User Profiles
 Responsive Design
 
 
-#🌐 Connect With Me
+# 🌐 Connect With Me
 
 GitHub: https://github.com/denzelanyiko3-source 
 
-Portfolio: 
+Portfolio: https://denzelanyiko3-source.github.io/iyf-s10-week-01-denzelanyiko3-source/index.html
 
 
 # Motto
